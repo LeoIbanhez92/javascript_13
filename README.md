@@ -92,7 +92,7 @@ Para executar os exemplos localmente, você precisará de:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/LeoIbanhez92/javascript_tjs13.git
+git clone https://github.com/LeoIbanhez92/javascript_13.git
 ```
 
 2. Abra a pasta do projeto no **Visual Studio Code**
